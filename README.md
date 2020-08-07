@@ -4,4 +4,4 @@ This is a MERN app for practice on Brad Travery's Udemy Course titled *MERN Stac
 
 This is a practice repository. 
 
-Link to Udemy Course ![https://www.udemy.com/course/mern-stack-front-to-back/]
+Link to Udemy Course [https://www.udemy.com/course/mern-stack-front-to-back/]
